@@ -221,6 +221,3 @@ resource "aws_sns_topic_subscription" "sns_topic_subscription" {
 #   Environment = "production"
 #   Application = "my_lambda_function"
 #  }
-# }
-
-
